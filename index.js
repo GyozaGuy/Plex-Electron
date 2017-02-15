@@ -4,7 +4,7 @@
 'use strict';
 
 // Change these to customize the app
-var url = 'http://plex.gyozaguy.com';
+var url = '<your-ip-here>';
 var height = 750;
 var width = 1200;
 
